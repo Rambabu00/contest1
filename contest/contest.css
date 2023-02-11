@@ -3,13 +3,13 @@ body {
     padding: 0px;
 }
 
-#btn {
+button {
     background-color: black;
     color: white;
     width: 100px;
     height: 30px;
 }
-#btn:hover{
+button:hover{
 background-color: lightblue;
 color: black;
 }
@@ -30,7 +30,10 @@ p {
     margin: 38px;
 }
 
-h1,h2 {
+h1 {
+    margin: 38px;
+}
+h2{
     margin: 38px;
 }
 
