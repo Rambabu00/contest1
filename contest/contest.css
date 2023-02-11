@@ -1,5 +1,4 @@
 .nav{
-    margin: 0px;
     background-color: black;
     width: 100%;
     color: white;
@@ -16,5 +15,5 @@
     color: black;
 }
 body{
-    margin: 0px;
+    margin-top: 0px;
 }
