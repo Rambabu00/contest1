@@ -1,0 +1,44 @@
+.nav{
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+.button{
+    text-align: center;
+    font-weight: 500;
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+.button:hover{
+    background-color: lightblue;
+    color: black;
+}
+body {
+ margin: 0px;
+ padding: 0px;
+}
+span {
+ margin-left: 30px;
+}
+
+p {
+margin: 38px;
+}
+
+h1,h2 {
+margin: 38px;
+}
+
+a {
+margin: 38px;
+}
+
+img {
+    margin: 38px;
+}
+
+div {
+    margin: 20px;
+}
+
