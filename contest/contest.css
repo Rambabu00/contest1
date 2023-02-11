@@ -9,7 +9,7 @@ body {
     width: 100px;
     height: 30px;
 }
-#btn{
+#btn:hover{
 background-color: lightblue;
 color: black;
 }
