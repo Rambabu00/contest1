@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#btn {
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+#btn{
+background-color: lightblue;
+color: black;
+}
+
+nav {
+    background-color: black;
+    width: 100%;
+    color: white;
+    height: 40px;
+    padding-top: 25px;
+}
+
+span {
+    margin-left: 30px;
+}
+
+p {
+    margin: 38px;
+}
+
+h1 {
+    margin: 38px;
+}
+
+a {
+    margin: 38px;
+}
+
+img {
+    margin: 38px;
+}
+
+div {
+    margin: 20px;
+}
